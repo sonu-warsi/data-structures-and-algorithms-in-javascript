@@ -10,7 +10,7 @@ const insertion_sort = array => {
             j -=1
         };
     };
-    return array
+  return array;
 };
 
 // Type 2
@@ -24,7 +24,7 @@ const insertion_sort = array => {
       }
       array[j+1] = tmp
     }
-    return array
+  return array;
   }
 
 console.log(insertion_sort(array))

@@ -25,7 +25,7 @@ function bubbleSort(array) {
             }
         }
     }
-    return array
+    return array;
 }
 
 //Type 3
@@ -58,7 +58,7 @@ const bubbleSort = array  => {
         if (swaped === true) {
             break;
         }
-    } return array
+    } return array;
 }
 
 //Type 5
@@ -78,7 +78,7 @@ const bubbleSort = array  => {
             break;
         }
         len = num;
-    } return array
+    } return array;
 }
 
 console.log(bubbleSort(array))

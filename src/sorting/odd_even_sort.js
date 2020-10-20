@@ -18,7 +18,7 @@ const odd_even_sort = array => {
             }
         }
     }
-    return array
+    return array;
 };
 
 //type 2
@@ -39,7 +39,7 @@ const odd_even_sort = array => {
             }
         }
     }
-    return array
+    return array;
 };
 
 console.log(odd_even_sort(array))
