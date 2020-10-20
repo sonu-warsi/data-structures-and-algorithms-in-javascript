@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Structure & Algorithms in Javascript
 
 You can use the [editor on GitHub](https://github.com/sonu-warsi/data-structures-and-algorithms-in-javascript/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
